@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skills>
+	<courseName>QA courses by Vadim Ksenzov</courseName>
+	<courseLength>3_months</courseLength>
+	<skillsToLearn>
+		<skill>basic theory</skill>
+		<skill>client-server model</skill>
+		<skill>HTTP request, response structure</skill>
+		<skill>HTTP server request</skill>
+		<skill>HTTP response status code</skill>
+		<skill>JSON/XML structure</skill>
+		<skill>API testing</skill>
+		<skill>Postman</skill>
+		<skill>View and read ogs on a remote server</skill>
+		<skill>HTTP/WEB snifing with Charles</skill>
+		<skill>Browser web developer tools</skill>
+		<skill>VPN</skill>
+		<skill>Mobile testing</skill>
+		<skill>IOS/Andriod features, guidelines</skill>
+		<skill>iOS app build in Xcode</skill>
+		<skill>Android app build in Andriod Studio</skill>
+		<skill>ADB (Android Debug Bridge)</skill>
+		<skill>VPN proxy setting IOS/Android</skill>
+		<skill>Mobile snifing Charles/Fiddler in IOS/Andriod</skill>
+		<skill>Terminal linux</skill>
+		<skill>Bash scripting, automation basic server tasks</skill>
+		<skill>Remote server access</skill>
+		<skill>SQL basics</skill>
+		<skill>Postgres Database</skill>
+		<skill>Redis (REmote DIctionary Server)</skill>
+		<skill>Load testing in Jmeter</skill>
+		<skill>Scrum Methodology</skill>
+		<skill>Python basics</skill>
+	</skillToLearne>
+</skills>
