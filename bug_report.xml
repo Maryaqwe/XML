@@ -1,1 +1,18 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<BugReport>
+  <Summary>Недоступно поле для ввода e-mail для формы регистрации</Summary>
+  <Id>00001</Id>
+  <Environment> Win10, Chrome</Environmen>
+  <Version>ver 3.1</Version>
+  <Severity>Critical</Severity>
+  <Priority>High</Priority>
+  <Status>Open</Status>
+  <Autor>Zhukovets</Autor>
+   <STR>
+    <step>открыть сайт hh.ru</step>
+    <step>справа сверху нажать кнопку Войти</step>
+    <step>Перевести курсор в поле e-mail</step>
+  </STR>
+  <ActualResult>Недоступно поле для ввода e-mail для формы регистрации, неактивно</ActualResult>
+  <ExpectedResult>Доступно поле для ввода e-mail для формы регистрации, реагирует на клик</ExpectedResult>
+</BugReport>
